@@ -20,6 +20,8 @@ no banco de dados e que pode ser acessado apenas pelo usuário ao efetuar
 login no sistema.
 Portanto, os casos de CRUD definidos estão no cadastro do usuário
 no sistema e na criação dos personagens pelo usuário.
-Para a execução do projeto, a linguagem escolhida foi o Java,
+Para a execução do projeto, a linguagem escolhida foi o Java(NetBeans IDE),
 utilizando o Paradigma de Programação Orientado a Objetos, com as telas
 de protótipo feitas no Photoshop CS6.
+
+
